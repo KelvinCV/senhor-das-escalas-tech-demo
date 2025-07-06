@@ -1,8 +1,8 @@
 # 🎮 🎵 Senhor Das Escalas - Tech Demo
 
-> Part of an original demo for an educational rhythm game and musical instrument simulator developed in the Unity Game Engine, focusing on gameplay, design, and manipulation of MIDI, WAV, and JSON files.
+> Part of an educational rhythm game and musical instrument simulator demo developed in the Unity Game Engine, focusing on gameplay, design, and manipulation of MIDI, WAV, and JSON files.
 
-This project uses the free version of MPTK Maestro, mainly to play 128 different types of sounds and musical instruments:  
+>This project makes use of the free version of MPTK Maestro, mainly to play 128 different types of sounds and musical instruments:  
 (https://assetstore.unity.com/packages/tools/audio/maestro-midi-player-tool-kit-free-107994)
 
 ---
@@ -25,13 +25,15 @@ This tech demo showcases a fully functional game stage developed in Unity, with 
 ## 🖼️ Images and Videos
 
 ### 🎬 Full Demo Video (Longplay)
+![SenhorDasEscalasLongplay2025](https://github.com/user-attachments/assets/26ddf068-94a6-47d3-a61f-89c7f3fbe587)
+
 📺 [Watch on YouTube](https://youtu.be/MMkvgFScvVA)
 
 ### 🧩 Screenshots
 
-| ![screenshot1](screenshots/scene1gameplay.png) |
-| ![screenshot2](screenshots/scene1keycodes.png) |
-| ![screenshot3](screenshots/scene1gameover2.png) |    
+ ![screenshot1](screenshots/scene1gameplay.png) 
+ ![screenshot2](screenshots/scene1keycodes.png) 
+ ![screenshot3](screenshots/scene1gameover2.png)   
 
 ---
 
