@@ -1,0 +1,292 @@
+{
+    "notes": [
+        {
+            "noteName": "E8vb",
+            "time": 3.6484732627868654,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 3.6484732627868654,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C8vb",
+            "time": 3.6484732627868654,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 7.648472309112549,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 7.648472309112549,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "F8vb",
+            "time": 7.648472309112549,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "B8vb",
+            "time": 11.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "D",
+            "time": 11.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 11.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E",
+            "time": 15.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 15.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 15.648469924926758,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 20.22846794128418,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 20.22846794128418,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "F8vb",
+            "time": 20.22846794128418,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "B8vb",
+            "time": 23.728466033935548,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "D",
+            "time": 23.728466033935548,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 23.728466033935548,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E8vb",
+            "time": 27.148466110229493,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 27.148466110229493,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C8vb",
+            "time": 27.148466110229493,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 31.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 31.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "F8vb",
+            "time": 31.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E8vb",
+            "time": 33.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 33.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C8vb",
+            "time": 33.64846420288086,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 37.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 37.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "F8vb",
+            "time": 37.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "B8vb",
+            "time": 41.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "D",
+            "time": 41.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 41.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E",
+            "time": 45.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 45.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 45.648460388183597,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "A8vb",
+            "time": 50.228458404541019,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C",
+            "time": 50.228458404541019,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "F8vb",
+            "time": 50.228458404541019,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "B8vb",
+            "time": 53.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "D",
+            "time": 53.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 53.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E8vb",
+            "time": 57.14845657348633,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 57.14845657348633,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C8vb",
+            "time": 57.14845657348633,
+            "duration": 4.0,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "E8vb",
+            "time": 61.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "G8vb",
+            "time": 61.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        },
+        {
+            "noteName": "C8vb",
+            "time": 61.72845458984375,
+            "duration": 3.5,
+            "hasSpawned": false
+        }
+    ]
+}

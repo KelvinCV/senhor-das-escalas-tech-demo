@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ce73454a1df1546ee90f369182c5edac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8287889002555327868
+    second: senhordasescalasicon0_0
+  - first:
+      213: 3466817078105070383
+    second: senhordasescalasicon0_1
+  - first:
+      213: -4913706626448322212
+    second: senhordasescalasicon0_2
+  - first:
+      213: 4966462566919296379
+    second: senhordasescalasicon0_3
+  - first:
+      213: -4132528875119153579
+    second: senhordasescalasicon0_4
+  - first:
+      213: -4099419107599629770
+    second: senhordasescalasicon0_5
+  - first:
+      213: 59029358671949575
+    second: senhordasescalasicon0_6
+  - first:
+      213: 369255472801094254
+    second: senhordasescalasicon0_7
+  - first:
+      213: -1324349429866368484
+    second: senhordasescalasicon0_8
+  - first:
+      213: 3948994810473752081
+    second: senhordasescalasicon0_9
+  - first:
+      213: -2187214484452334567
+    second: senhordasescalasicon0_10
+  - first:
+      213: 3990783824703927475
+    second: senhordasescalasicon0_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: senhordasescalasicon0_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 367
+        width: 927
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab2d00dd08bfc80800000000000000
+      internalID: -8287889002555327868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 264
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bd5b9b3cb9c1030800000000000000
+      internalID: 3466817078105070383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 268
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5190107bd10fcbb0800000000000000
+      internalID: -4913706626448322212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 264
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75df73246b6ce440800000000000000
+      internalID: 4966462566919296379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 265
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e6a7612ee46a6c0800000000000000
+      internalID: -4132528875119153579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 266
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63243129a00fb17c0800000000000000
+      internalID: -4099419107599629770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 263
+        width: 154
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fe5f293e6b1d000800000000000000
+      internalID: 59029358671949575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 197
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a9da765ebdf1500800000000000000
+      internalID: 369255472801094254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 119
+        width: 116
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12f252d537fe9de0800000000000000
+      internalID: -1324349429866368484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 123
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11626228bd5adc630800000000000000
+      internalID: 3948994810473752081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 119
+        width: 99
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91421a6c30475a1e0800000000000000
+      internalID: -2187214484452334567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: senhordasescalasicon0_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 120
+        width: 218
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43ad69ebc126730800000000000000
+      internalID: 3990783824703927475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      senhordasescalasicon0_0: -8287889002555327868
+      senhordasescalasicon0_1: 3466817078105070383
+      senhordasescalasicon0_10: -2187214484452334567
+      senhordasescalasicon0_11: 3990783824703927475
+      senhordasescalasicon0_2: -4913706626448322212
+      senhordasescalasicon0_3: 4966462566919296379
+      senhordasescalasicon0_4: -4132528875119153579
+      senhordasescalasicon0_5: -4099419107599629770
+      senhordasescalasicon0_6: 59029358671949575
+      senhordasescalasicon0_7: 369255472801094254
+      senhordasescalasicon0_8: -1324349429866368484
+      senhordasescalasicon0_9: 3948994810473752081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
