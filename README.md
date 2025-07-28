@@ -31,9 +31,9 @@ This tech demo showcases a fully functional game stage developed in Unity, with 
 
 ### 🧩 Screenshots
 
- ![screenshot2](screenshots/scene1keycodes.png) 
- ![screenshot1](screenshots/scene1gameplay.png) 
- ![screenshot3](screenshots/scene1gameover2.png)   
+| ![screenshot1](screenshots/scene1gameplay.png) |
+| ![screenshot2](screenshots/scene1keycodes.png) |
+| ![screenshot3](screenshots/scene1gameover2.png) |    
 
 ---
 
