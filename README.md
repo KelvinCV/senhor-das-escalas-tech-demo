@@ -31,10 +31,14 @@ This tech demo showcases a fully functional game stage developed in Unity, featu
 
 ### 🧩 Screenshots
 
- ![screenshot1](screenshots/scene1gameplay.png) 
- ![screenshot2](screenshots/scene1keycodes.png) 
+ ![screenshot1](screenshots/scene1gameplay.png)
+
+ ![screenshot2](screenshots/scene1keycodes.png)
+
  ![screenshot3](screenshots/scene1gameover2.png)
+
  ![screenshot4](screenshots/extrastageEVA.png)
+ 
  ![screenshot5](screenshots/Credits.png) 
 
 
